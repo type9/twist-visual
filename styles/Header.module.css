@@ -1,0 +1,24 @@
+.nav_content {
+    align-items: center; 
+    display: flex;
+    height: 100%;
+
+    margin: 0 auto;
+    padding: 0 24px;
+    position: relative;
+}
+
+.left_nav{
+    flex: 1 1 100%;
+    display: flex;
+}
+
+.mid_nav{
+
+}
+
+.right_nav{
+    justify-content: flex-end;
+    flex: 1 1 100%;
+    display: flex;
+}
